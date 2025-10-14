@@ -1,2 +1,2 @@
-# asi-ml-template
-Template repo do projektu
+# Projekt przewidywania prawdopodobieństwa przeżycia katastrofy Titanica
+
