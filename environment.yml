@@ -3,6 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - kedro
+  - kedro-datasets[pandas]
+  - pyarrow
+  - wandb
+  - pandera
   - python=3.11
   - jupyterlab
   - ipykernel
