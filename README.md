@@ -32,10 +32,13 @@ Dane są niezbalansowane (różna liczba osób, które przeżyły / nie przeży�
 F1-score lepiej ocenia model niż dokładność (accuracy),
 ponieważ uwzględnia zarówno precyzję (precision), jak i czułość (recall).
 
-KEDRO QUICKSTART
+#KEDRO QUICKSTART
 
 cd \Titanic_ASI\titanic_predictor
+
 conda activate asi-ml
+
 kedro run
 # lub
+
 kedro run --pipeline data_science
