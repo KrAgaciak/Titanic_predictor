@@ -16,13 +16,13 @@ dist/
 *.env
 
 # Data (nie ładujemy pełbych danych, tylko małe próbki danych)
-data/*
-!data/01_raw/
-!data/02_interim/
-!data/03_processed/
-data/**/.gitkeep
-data/**/README.md
-!data/01_raw/sample.csv
+sprint_1/data/*
+!sprint_1/data/01_raw/
+!sprint_1/data/02_interim/
+!sprint_1/data/03_processed/
+sprint_1/data/**/.gitkeep
+sprint_1/data/**/README.md
+!sprint_1/data/01_raw/sample.csv
 
 # jeśli ktoś pracuje na Macu
 .DS_Store
