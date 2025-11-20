@@ -42,3 +42,5 @@ kedro run
 # lub
 
 kedro run --pipeline data_science
+
+wandb login KEY

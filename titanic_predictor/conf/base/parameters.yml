@@ -5,3 +5,16 @@ split:
 
 model:
   max_iter: 1000
+
+random_seed: 42
+
+autogluon:
+  time_limit: 120
+  presets: "medium_quality_faster_train"
+  problem_type: "binary"
+  label: "Survived"
+  eval_metric: "roc_auc"
+  extra_fit_args:
+    hyperparameters: null
+    auto_stack: false
+ag_model_filepath: "data/06_models/ag_production.pkl"

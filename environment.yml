@@ -22,3 +22,4 @@ dependencies:
       - black
       - pytest
       - wandb
+      - autogluon==1.*
