@@ -44,3 +44,13 @@ kedro run
 kedro run --pipeline data_science
 
 wandb login KEY
+
+W&B
+
+Tabela runów
+<img width="1678" height="448" alt="obraz" src="https://github.com/user-attachments/assets/c53f0288-d8ae-4aa9-bd6a-d07fb12f7457" />
+
+Porównanie modeli
+<img width="884" height="296" alt="obraz (1)" src="https://github.com/user-attachments/assets/cc3b8857-fabe-46c4-aab8-7ad15bc5fa93" />
+
+
